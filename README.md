@@ -1,1 +1,1 @@
-# KeepFiring2
+"KeepFiring2" is an improved version of "KeepFiring". The player can move around and have two item slots. The player can use an item by using the Q and E key. This game has two usable items. 1st is medkit, the medkit can heal one health point. The 2nd is Rocket, the rocket kills every zombie that the rocket is impacted with. And the zombies have two versions. The normal zombies have 1-damage points attack and  6-points speed. The new version of zombies is  "Red zombies". The Red zombies have 2-damage points and 8-speed points.
